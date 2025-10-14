@@ -2,12 +2,6 @@
 
 - Sudah Malam Atau Sudah Tau 
 - Sudah Mengantuk
-- sedikit lagi selesai, semangat
-- ingin sekali rasanya turu
-### Learning Git BPSDMP YK X METRODATA 
-
-- Sudah Malam Atau Sudah Tau 
-- Sudah Mengantuk
 - ingin sekali rasanya turu
 
 # Laporan Implementasi Git 
